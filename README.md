@@ -1,4 +1,4 @@
-# Hi, I'm Sherif AbouZaid, a Senior Front-End Developer
+# Hi there
 
 Hi, I'm [Sherif AbouZaid](https://linkedin.com/in/shiref-abouzaid), a **Senior Front-End Developer** with 7 years of expertise and 5 years of hands-on experience in **Vue.js** and **Nuxt.js**. I'm passionate about crafting modern, efficient, and scalable frontend applications, utilizing **RESTful APIs**, **CI/CD pipelines**, and **Agile** methodologies.
 
