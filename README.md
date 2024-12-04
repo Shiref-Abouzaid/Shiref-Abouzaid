@@ -16,6 +16,7 @@ Hi, I'm [Sherif AbouZaid](https://linkedin.com/in/shiref-abouzaid), a **Senior F
 ## Projects
 - [ArabsStock](https://arabsstock.com/): A platform providing stock photos, videos, and audio. Developed using Vue.js and Nuxt.js.
 - [Laws.moj.gov.sa](https://laws.moj.gov.sa/): Saudi Arabia’s official portal for laws and regulations, built with a modern stack to offer a seamless user experience.
+- [Awaed Capital](https://awaed.capital/en): Developed internal dashboards for real-time insights and management of the [Awaed mobile app](https://play.google.com/store/search?q=%D8%B9%D9%88%D8%A7%D8%A6%D8%AF&c=apps&hl=en&gl=US).
 - [BlingApp](https://blingapp.net/): A web app for managing personal finances, developed with a focus on performance and user experience.
 
 ## How to Reach Me
