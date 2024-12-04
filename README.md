@@ -1,6 +1,6 @@
-# Hi, I'm [Sherif AbouZaid], a Senior Front-End Developer
+# Hi, I'm Sherif AbouZaid, a Senior Front-End Developer
 
-Hi, I'm [Sherif AbouZaid]([https://github.com/your-username](https://github.com/Shiref-Abouzaid)), a **Senior Front-End Developer** with 7 years of expertise and 5 years of hands-on experience in **Vue.js** and **Nuxt.js**. I'm passionate about crafting modern, efficient, and scalable frontend applications, utilizing **RESTful APIs**, **CI/CD pipelines**, and **Agile** methodologies.
+Hi, I'm [Sherif AbouZaid](https://linkedin.com/in/shiref-abouzaid), a **Senior Front-End Developer** with 7 years of expertise and 5 years of hands-on experience in **Vue.js** and **Nuxt.js**. I'm passionate about crafting modern, efficient, and scalable frontend applications, utilizing **RESTful APIs**, **CI/CD pipelines**, and **Agile** methodologies.
 
 ## About Me
 - 💻 **Specialized in**: Vue.js, Nuxt.js, React.js, Next.js
